@@ -11,4 +11,4 @@ In order of difficulty (hardest to easiest, based on personal opinion):
 - [Strange Splitting, Codeforces Global Round 26](https://codeforces.com/contest/1984/problem/A)
 - [Desorting, Codeforces Round 887](https://codeforces.com/contest/1853/problem/A)
 
-Solutions for each problem are available publicly. On Codeforces, it is available by clicking on the Tutorial page (bottom right); on USACO, you have to go back a page and click Solution).
+Solutions for each problem are available publicly. On Codeforces, it is available by clicking on the Tutorial page (bottom right). On USACO, you have to go back a page and click Solution.
