@@ -1,7 +1,7 @@
 This list includes a selection of competitive programming problems I've authored over the years (particularly between 2023-2025). They test a variety of concepts, including ad-hoc reasoning, graph theory, and dynamic programming.
 
 - [Palindromes, USACO Platinum Division](https://usaco.org/index.php?page=viewproblem2&cpid=1262)
-- [Leaders, USACO Bronze Division](https://usaco.org/index.php?page=viewproblem2&cpid=1275). Also featured problem on [Figure 1 of Princeton Language and Intelligence Group's work on LLMs and Olympiad Programming](https://arxiv.org/html/2404.10952v1).
+- [Leaders, USACO Bronze Division](https://usaco.org/index.php?page=viewproblem2&cpid=1275). Also the featured problem on [Figure 1 of Princeton Language and Intelligence Group's work on LLMs and Olympiad Programming](https://arxiv.org/html/2404.10952v1)!
 - [Feeding the Cows, USACO Bronze Division](https://usaco.org/index.php?page=viewproblem2&cpid=1252)
 - [Strange Splitting, Codeforces Global Round 26](https://codeforces.com/contest/1984/problem/A)
 - [Magnitude, Codeforces Global Round 26](https://codeforces.com/contest/1984/problem/C2)
