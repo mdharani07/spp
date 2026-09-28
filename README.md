@@ -1,4 +1,6 @@
-This list includes a selection of competitive programming problems I've authored over the years (particularly between 2023-2025). They test a variety of concepts, including ad-hoc reasoning, graph theory, and dynamic programming. In order of difficulty (hardest to easiest, based on personal opinion):
+This list includes a selection of competitive programming problems I've authored over the years (particularly between 2023-2025). They test a variety of concepts, including ad-hoc reasoning, graph theory, and dynamic programming. 
+
+In order of difficulty (hardest to easiest, based on personal opinion):
 
 - [Palindromes, USACO Platinum Division](https://usaco.org/index.php?page=viewproblem2&cpid=1262)
 - [Reconstruction, Codeforces Global Round 26](https://codeforces.com/contest/1984/problem/F)
